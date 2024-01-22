@@ -1,5 +1,8 @@
 # FoursquareClone-Parse
--It was made using Parse. -User registration/login operations. -MapView -TableView -PHPhoto
+-It was made using Parse.
+-User registration/login operations.
+-MapView, TableView, PHPhoto
+-Saving a venue or location with an admin account.
 
 
 ## Screenshots
